@@ -1,8 +1,8 @@
 {
     "functions": {
-      "api/example/device_control.py": {
+      "api/device-control": {
+        "handler": "example/device_control.py",
         "runtime": "python3.8"
       }
     }
   }
-  
